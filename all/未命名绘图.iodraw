@@ -50,14 +50,6 @@
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-13" value="开机引导&lt;div&gt;引导界面&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-79.875" y="-158" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9d63r2rvEAUcM-ZLQUoR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9d63r2rvEAUcM-ZLQUoR-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-19.799999999999955" y="142.04927625500454" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9d63r2rvEAUcM-ZLQUoR-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9d63r2rvEAUcM-ZLQUoR-16" target="9d63r2rvEAUcM-ZLQUoR-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-16" value="主界面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-79.875" y="23" width="120" height="60" as="geometry" />
         </mxCell>
@@ -147,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-49" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-79.875" y="163" width="120" height="60" as="geometry" />
+          <mxGeometry x="-76.125" y="152" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

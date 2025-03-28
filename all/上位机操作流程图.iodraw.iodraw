@@ -146,8 +146,8 @@
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-58" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-78" y="279" width="116" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9d63r2rvEAUcM-ZLQUoR-60" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-71.25" y="-678" width="102.5" height="51" as="geometry" />
+        <mxCell id="9d63r2rvEAUcM-ZLQUoR-60" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-77.25" y="-687" width="115.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

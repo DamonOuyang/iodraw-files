@@ -51,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-11" value="开始自检&lt;div&gt;自检界面&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-79.875" y="-373" width="120" height="60" as="geometry" />
+          <mxGeometry x="-79.875" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9d63r2rvEAUcM-ZLQUoR-13" target="9d63r2rvEAUcM-ZLQUoR-41">
           <mxGeometry relative="1" as="geometry" />

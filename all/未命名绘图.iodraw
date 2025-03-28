@@ -137,8 +137,8 @@
             <mxPoint x="-20" y="23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9d63r2rvEAUcM-ZLQUoR-41" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-86.51" y="-77" width="127.51" height="80" as="geometry" />
+        <mxCell id="9d63r2rvEAUcM-ZLQUoR-41" value="引导确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-83.63000000000001" y="-75" width="127.51" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -24,6 +24,11 @@
             <mxPoint x="54" y="-436" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9d63r2rvEAUcM-ZLQUoR-9" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9d63r2rvEAUcM-ZLQUoR-6">
+          <mxGeometry x="-0.1273" y="-4" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="109" y="-470" width="102" height="68" as="geometry" />
         </mxCell>

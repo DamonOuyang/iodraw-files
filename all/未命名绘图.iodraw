@@ -140,6 +140,14 @@
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-41" value="引导确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-83.63000000000001" y="-75" width="127.51" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9d63r2rvEAUcM-ZLQUoR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.007;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9d63r2rvEAUcM-ZLQUoR-41" target="9d63r2rvEAUcM-ZLQUoR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9d63r2rvEAUcM-ZLQUoR-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9d63r2rvEAUcM-ZLQUoR-44">
+          <mxGeometry x="0.1195" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

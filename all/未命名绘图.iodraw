@@ -120,6 +120,11 @@
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9d63r2rvEAUcM-ZLQUoR-35" target="9d63r2rvEAUcM-ZLQUoR-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9d63r2rvEAUcM-ZLQUoR-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9d63r2rvEAUcM-ZLQUoR-39">
+          <mxGeometry x="-0.1481" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9d63r2rvEAUcM-ZLQUoR-35" value="自检确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-59.875" y="-192" width="80" height="80" as="geometry" />
         </mxCell>
